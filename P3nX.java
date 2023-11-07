@@ -15,7 +15,7 @@ public class P3nX{
     System.out.println("Bem vindo a sua nova biblioteca.");
     
     //menu de opcoes
-    System.out.println("Selecione o que deseja realizar:\n1.Cadastro\n2.Emprestimo\n3.Relatorio\n4.Fechar biblioteca");
+    System.out.println("[Menu] Selecione o que deseja realizar:\n1.Cadastro\n2.Emprestimo\n3.Relatorio\n4.Fechar biblioteca");
     num = entrada.nextInt();
     while(num!= 4){
       switch(num){
