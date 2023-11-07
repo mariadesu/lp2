@@ -1,3 +1,4 @@
+package excps;
 public class CopiaNaoDisponivelEx extends Exception{
 
   public CopiaNaoDisponivelEx(){

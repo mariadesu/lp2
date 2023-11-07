@@ -1,3 +1,4 @@
+package excps;
 public class NenhumaCopiaEmprestadaEx extends Exception{
 
   public NenhumaCopiaEmprestadaEx(){
